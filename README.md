@@ -128,7 +128,7 @@ Untuk 2 broker lainnya konfigurasinya hampir sama, hanya saja menggunakan port y
 
 5. setelah itu buka kembali kedalam docker, maka container akan bertambah.
 
-![](/tugas_4_kafka/screenshoot/4.png)
+![](/screenshoot/4.png)
 
 3 Broker dan 1 Cluster telah berhasil dibuat dan berhasil dijalankan.
 
