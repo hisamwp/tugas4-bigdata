@@ -138,7 +138,7 @@ Selanjutnya adalah melakukan testing dengan menggunakan conduktor, untuk memasti
 
 ![](/screenshoot/5.png)
 
-Buat konfigurasi cluster, kemudian tekan save, setelah itu hubungkan dengan cluster yang telah dibuat. Berikut konfigurasinya:
+Buat konfigurasi cluster, kemudian tekan save, setelah itu hubungkan dengan cluster yang telah dibuat.
 
 ![](/screenshoot/6.png)
          
