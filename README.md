@@ -116,7 +116,7 @@ Untuk 2 broker lainnya konfigurasinya hampir sama, hanya saja menggunakan port y
 
 1. Jalankan docker, maka akan terlihat tidak ada container.
 
-![](/tugas_4_kafka/screenshoot/2.png)
+![](/screenshoot/2.png)
 
 2. Masuk kedalam cmd.
 
@@ -124,7 +124,7 @@ Untuk 2 broker lainnya konfigurasinya hampir sama, hanya saja menggunakan port y
 
 4. Jalankan ``docker-compose up``. 
 
-![](/tugas_4_kafka/screenshoot/3.png)
+![](/screenshoot/3.png)
 
 5. setelah itu buka kembali kedalam docker, maka container akan bertambah.
 
@@ -136,9 +136,9 @@ Untuk 2 broker lainnya konfigurasinya hampir sama, hanya saja menggunakan port y
 ### 2.3 Testing
 Selanjutnya adalah melakukan testing dengan menggunakan conduktor, untuk memastikan kafka telah terbuat dan dapat digunakan.
 
-![](/tugas_4_kafka/screenshoot/5.png)
+![](/screenshoot/5.png)
 
 Buat konfigurasi cluster, kemudian tekan save, setelah itu hubungkan dengan cluster yang telah dibuat. Berikut konfigurasinya:
 
-![](/tugas_4_kafka/screenshoot/6.png)
+![](/screenshoot/6.png)
          
