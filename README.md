@@ -118,7 +118,7 @@ Untuk 2 broker lainnya konfigurasinya hampir sama, hanya saja menggunakan port y
 
 ![](/screenshoot/2.png)
 
-2. Masuk kedalam cmd.
+2. Masuk kedalam terminal.
 
 3. Masuk kedalam direktori dimana docker-compose.yaml/yml berada.
 
